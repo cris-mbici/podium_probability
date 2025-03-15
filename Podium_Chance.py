@@ -1,4 +1,4 @@
-# Add these functions at the beginning of your code
+# Overarching function
 def calculate_constructor_score(constructor_data):
     # This calculates how good the team is overall - pretty important stuff
     
