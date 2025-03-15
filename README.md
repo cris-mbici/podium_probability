@@ -1,9 +1,9 @@
-# F1 Podium Prediction Model 🏎️🏆
+# F1 Podium Prediction Model 🏎️
 
 ## Overview
 This Python application predicts the probability of a Formula 1 driver securing a podium finish in an upcoming race. Using a comprehensive weighted scoring system that I developed through extensive research and testing, the model analyzes multiple factors that influence race outcomes.
 
-![F1 Race Start](https://github.com/cris-mbici/podium_probability/raw/main/probability_demo.mp4)
+[F1 Race Start](https://github.com/cris-mbici/podium_probability/raw/main/probability_demo.mp4)
 
 ## The Science Behind the Model
 
