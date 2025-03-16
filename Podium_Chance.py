@@ -1,6 +1,6 @@
 # Overarching function
 def calculate_constructor_score(constructor_data):
-    # This calculates how good the team is overall - pretty important stuff
+    # This calculates how good the team is overall - pretty important details
     
     # How they're doing this season compared to everyone else
     constructor_points = constructor_data['current_points']
