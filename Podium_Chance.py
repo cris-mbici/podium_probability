@@ -1,4 +1,4 @@
-# Overarching function
+# Overarching functions
 def calculate_constructor_score(constructor_data):
     # This calculates how good the team is overall - pretty important details
     
