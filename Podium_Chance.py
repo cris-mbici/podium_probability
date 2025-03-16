@@ -61,7 +61,7 @@ def calculate_driver_score(driver_data):
 def calculate_other_factors(other_factor_data):
     # This handles all the random stuff that can affect a race
     
-    # Weather can change everything - some drivers are rain masters
+    # Weather can change everything - some drivers are rain masters, some struggle
     if other_factor_data['weather_condition'] == 'dry':
         weather_factor = other_factor_data['driver_dry_performance']
     elif other_factor_data['weather_condition'] == 'wet':
