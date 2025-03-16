@@ -76,7 +76,7 @@ def calculate_other_factors(other_factor_data):
     # New parts on the car can make a big difference
     upgrade_score = other_factor_data['recent_upgrade_impact']
     
-    # Other random stuff that matters too
+    # Other random stuff that matters too, good to include
     special_factors = [
         other_factor_data['home_race_advantage'],
         other_factor_data['strategic_advantage'],
