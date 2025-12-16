@@ -21,18 +21,18 @@ The data used to train and test this model comes from a comprehensive Formula 1 
 
 ## Key Features
 
-✅ **Three-Component Scoring System** with detailed analysis of:
+ **Three-Component Scoring System** with detailed analysis of:
   - Constructor/Team Performance
   - Driver Performance 
   - Race-Specific Factors
 
-✅ **Flexible Input Options** allowing for both manual score entry and automated calculation
+ **Flexible Input Options** allowing for both manual score entry and automated calculation
 
-✅ **Weather Impact Analysis** that considers driver performance in various conditions
+ **Weather Impact Analysis** that considers driver performance in various conditions
 
-✅ **Circuit-Specific Performance** evaluation based on historical results
+ **Circuit-Specific Performance** evaluation based on historical results
 
-✅ **Normalized Scoring System** that ensures all factors fall within a 0-1 range for consistent weighting
+ **Normalized Scoring System** that ensures all factors fall within a 0-1 range for consistent weighting
 
 ## What I Learned
 
@@ -109,4 +109,4 @@ As I continue to develop my programming skills, I plan to enhance this project b
 ## Final Thoughts
 
 This project represents my passion for both Formula 1 racing and data that tells a story. It demonstrates my ability to apply mathematical concepts to real-world problems and develop structured, modular code. I'm particularly proud of how I combined statistical analysis with domain knowledge to create a practical tool that produces meaningful predictions.
-I used Claude to help me get the theoretical know-how while avoiding getting overwhelmed by technical information. I hope this project serves as a solid foundation to my future in data science!
+I used Claude to help me get the theoretical know-how to decide what weights to give each factor. I hope this project serves as a solid foundation to my future in data science!
